@@ -10,6 +10,31 @@
   
 </details>
 
+<details>
+  <summary>
+    Accordéon / Accordion
+  </summary>
+  
+  ```
+  <details>
+    <summary>
+      Accordéon
+    </summary>
+    
+    Corps de texte. 
+  </details>
+  
+  ```
+  <details>
+    <summary>
+      Accordéon
+    </summary>
+  
+  Corps de texte. 
+  </details>
+  
+  N.B. : Il est nécessaire de mettre une **ligne vide** après `</details>` et `</summary>`. 
+</details>
 
 
 <details>
