@@ -1,10 +1,21 @@
 # ILearnMarkdown
 
+<details>
+  <summary>
+    Saut de ligne 
+  </summary>
+  
+  Mettre **deux espaces** (ou plus) à la fin de la ligne.  
+  Correspond à la balise **`<br/>`**
+  
+</details>
+
+
 
 <details>
   <summary>
     Tableaux
-</summary>
+  </summary>
   
   Pour créer un tableau vous devez placer une ligne de tirets (`-`) sous la ligne d'entête et séparer les colonnes avec des `|`. Vous pouvez aussi préciser l'alignement en utilisant des `:`. 
   
