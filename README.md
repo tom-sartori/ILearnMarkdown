@@ -1,5 +1,7 @@
 # ILearnMarkdown
 
+Ce répertoire est plus un récapitulatif des éléments markdown que j'utilise, plutôt qu'un apprentissage.  
+
 <details>
   <summary>
     Saut de ligne 
