@@ -75,3 +75,17 @@ Ce répertoire est plus un récapitulatif des éléments markdown que j'utilise,
   [I'm a link.](https://github.com/tom-sartori/ILearnMarkdown/)
 </details>
  
+
+<details>
+  <summary>
+    Checkbox
+  </summary>
+
+  ```
+  - [x] Checked
+  - [ ] Unchecked
+  ```
+  
+  - [x] Checked
+  - [ ] Unchecked
+</details>
